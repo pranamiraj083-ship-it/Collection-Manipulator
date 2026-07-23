@@ -29,11 +29,10 @@ A simple Python console-based application to manage student records using Python
 ## Project Structure
 
 ```
-Student-Data-Organizer/
+pr3/
 │
-├── student_data_organizer.py
-├── README.md
-└── LICENSE (Optional)
+├── manipulator.py      # Main Python program
+└── README.md           # Project documentation
 ```
 
 ---
@@ -184,19 +183,19 @@ Student added successfully!
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Student-Data-Organizer.git
+git clone https://github.com/pranamiraj083-ship-it/Collection-Manipulator.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd Student-Data-Organizer
+cd pr3
 ```
 
 3. Run the program
 
 ```bash
-python student_data_organizer.py
+python manipulator.py
 ```
 
 ---
@@ -204,8 +203,6 @@ python student_data_organizer.py
 ## Author
 
 **Pranami Raj**
-
-GitHub: https://github.com/pranamiraj083-ship-it
 
 ---
 
